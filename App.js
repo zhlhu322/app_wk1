@@ -5,7 +5,7 @@ import React from 'react';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>111119042李恩亞~</Text>
+      <Text>111119042李恩亞</Text>
       <StatusBar style="auto" />
     </View>
   );
